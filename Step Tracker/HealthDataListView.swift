@@ -51,7 +51,6 @@ struct HealthDataListView: View {
                     Button("Add Data") {
                         // do stuff later
                     }
-                    
                 }
                 
                 ToolbarItem(placement: .topBarLeading) {
@@ -62,7 +61,6 @@ struct HealthDataListView: View {
             }
         }
     }
-    
 }
 
 #Preview {
